@@ -1,2 +1,8 @@
 # IDE- and editor-related files
 .vscode
+
+# Build directory and build files
+build
+*.obj
+*.lib
+*.exe
